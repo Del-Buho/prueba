@@ -10,4 +10,4 @@ jobs:
       - name: Listado
         run: ls
       - name: Mostrar
-        run: cat README.md
+        run: cat README2.md
